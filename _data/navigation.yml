@@ -24,14 +24,4 @@ main:
 #   url: /markdown/
 
   - title: "CV"
-<<<<<<< HEAD
     url: /files/mwalle_CV.pdf
-=======
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
->>>>>>> upstream/master
