@@ -18,4 +18,4 @@ Powerpoint Slides
 Code Examples (Jupyter Notebook, valid until 30.04.2025)
 ======
 
-<script src="https://gist.github.com/wallematthias/51c81e49c718ee5b034c7025a6f4c2f7.js"></script>
+<script src="https://gist.github.com/wallematthias/a436a45219889a89fe0d7c373012451f.js"></script>
