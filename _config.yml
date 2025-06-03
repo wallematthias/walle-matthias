@@ -12,7 +12,7 @@ title                    : "Matthias Walle"
 title_separator          : "-"
 name                     : &name "Matthias Walle, Dr. sc."
 description              : &description ""
-url                      : https://wallematthias.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wallematthias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wallematthias/wallematthias.github.io"
 
